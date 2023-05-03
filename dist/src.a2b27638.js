@@ -175,6 +175,7 @@ var age = 28;
 //従来の方法
 var message1 = "私の名前は" + a + "です。年齢は" + age + "です。";
 console.log(message1);
+console.log(a);
 },{}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';

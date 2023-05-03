@@ -55,3 +55,4 @@ const age = 28;
 //従来の方法
 const message1 = "私の名前は" + a + "です。年齢は" + age + "です。";
 console.log(message1);
+console.log(a);
